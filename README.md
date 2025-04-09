@@ -17,8 +17,8 @@ You'll need Node.js installed on your computer.
 
 Just clone this repo:
 ```
-git clone https://github.com/yourusername/blockchain-simulation.git
-cd blockchain-simulation
+git clone https://github.com/yourusername/JavaScript-Blockchain-.git
+cd JavaScript-Blockchain-
 ```
 
 No need to install any packages - it only uses Node's built-in crypto module.
